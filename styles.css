@@ -1,0 +1,42 @@
+.recipe-img {
+    height: auto;
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+body {
+    min-width: 400px;
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+div {
+    background-color: #ccdbfc;
+    align-self: center;
+}
+
+h1.title,
+.steps {
+    text-align: center;
+    background-color: #d7ffed;
+    font-weight: 600;
+}
+
+h1.title {
+    font-family: monospace;
+}
+
+.home-btn {
+    text-align: center;
+}
+
+img.collage {
+    height: 100px;
+    width: auto;
+}
+
+.collage-div {
+    text-align: center;
+}
